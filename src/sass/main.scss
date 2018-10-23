@@ -1,0 +1,23 @@
+html {
+    font-size: 62.5%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 1.7rem;
+}
+
+.headline {
+    font-size: 45px;
+    text-align: center;
+    color: brown;
+
+    &__second {
+        color: black;
+        text-align: center;
+    }
+}
